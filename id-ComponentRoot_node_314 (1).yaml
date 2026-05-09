@@ -1,0 +1,6 @@
+key: ComponentRoot_node_314
+type: Container
+props:
+  container: {}
+name: ReceiptRow
+isDummyRoot: true

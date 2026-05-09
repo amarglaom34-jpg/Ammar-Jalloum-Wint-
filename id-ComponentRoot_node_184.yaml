@@ -1,0 +1,55 @@
+name: TransactionItem
+description: ""
+params:
+  design_system_usr_transaction_item_transaction_itemparam_amount:
+    identifier:
+      name: amount
+      key: design_system_usr_transaction_item_transaction_itemparam_amount
+    defaultValue:
+      serializedValue: "45,000"
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_transaction_item_transaction_itemparam_date:
+    identifier:
+      name: date
+      key: design_system_usr_transaction_item_transaction_itemparam_date
+    defaultValue:
+      serializedValue: "Today, 02:45 PM"
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_transaction_item_transaction_itemparam_name:
+    identifier:
+      name: name
+      key: design_system_usr_transaction_item_transaction_itemparam_name
+    defaultValue:
+      serializedValue: Ahmad Al-Khatib
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_transaction_item_transaction_itemparam_status:
+    identifier:
+      name: status
+      key: design_system_usr_transaction_item_transaction_itemparam_status
+    defaultValue:
+      serializedValue: Sent
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_transaction_item_transaction_itemparam_is_income:
+    identifier:
+      name: isIncome
+      key: design_system_usr_transaction_item_transaction_itemparam_is_income
+    defaultValue:
+      serializedValue: "false"
+    dataType:
+      scalarType: Boolean
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_184

@@ -1,0 +1,29 @@
+key: ComponentInstance_contact3_261
+type: Container
+props:
+  container: {}
+name: ContactItem
+parameterValues:
+  parameterPasses:
+    design_system_usr_contact_item_contact_itemparam_initials:
+      paramIdentifier:
+        name: initials
+        key: design_system_usr_contact_item_contact_itemparam_initials
+      inputValue:
+        serializedValue: RK
+    design_system_usr_contact_item_contact_itemparam_name:
+      paramIdentifier:
+        name: name
+        key: design_system_usr_contact_item_contact_itemparam_name
+      inputValue:
+        serializedValue: Rania Kabbani
+    design_system_usr_contact_item_contact_itemparam_phone:
+      paramIdentifier:
+        name: phone
+        key: design_system_usr_contact_item_contact_itemparam_phone
+      inputValue:
+        serializedValue: +963 955 777 888
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_246
+componentClassKeyRef:
+  key: ComponentRoot_node_246

@@ -1,0 +1,22 @@
+key: Container_avatar3_356
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 96
+      height:
+        pixelsValue:
+          inputValue: 96
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+    childAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+name: Avatar

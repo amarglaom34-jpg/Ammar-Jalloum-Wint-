@@ -1,0 +1,25 @@
+name: ReceiptRow
+description: ""
+params:
+  design_system_usr_receipt_row_receipt_rowparam_label:
+    identifier:
+      name: label
+      key: design_system_usr_receipt_row_receipt_rowparam_label
+    defaultValue:
+      serializedValue: Transaction ID
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_receipt_row_receipt_rowparam_value:
+    identifier:
+      name: value
+      key: design_system_usr_receipt_row_receipt_rowparam_value
+    defaultValue:
+      serializedValue: TRX-992847510
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_314

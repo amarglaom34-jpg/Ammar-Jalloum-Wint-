@@ -1,0 +1,23 @@
+key: ComponentInstance_digit2_85
+type: Container
+props:
+  container: {}
+name: OtpDigitBox
+parameterValues:
+  parameterPasses:
+    design_system_usr_otp_digit_box_otp_digit_boxparam_value:
+      paramIdentifier:
+        name: value
+        key: design_system_usr_otp_digit_box_otp_digit_boxparam_value
+      inputValue:
+        serializedValue: "8"
+    design_system_usr_otp_digit_box_otp_digit_boxparam_active:
+      paramIdentifier:
+        name: active
+        key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+      inputValue:
+        serializedValue: "false"
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_81
+componentClassKeyRef:
+  key: ComponentRoot_node_81

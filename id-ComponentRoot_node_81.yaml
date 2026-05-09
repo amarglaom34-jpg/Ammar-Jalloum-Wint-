@@ -1,0 +1,25 @@
+name: OtpDigitBox
+description: ""
+params:
+  design_system_usr_otp_digit_box_otp_digit_boxparam_value:
+    identifier:
+      name: value
+      key: design_system_usr_otp_digit_box_otp_digit_boxparam_value
+    defaultValue:
+      serializedValue: "4"
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_otp_digit_box_otp_digit_boxparam_active:
+    identifier:
+      name: active
+      key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+    defaultValue:
+      serializedValue: "false"
+    dataType:
+      scalarType: Boolean
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_81

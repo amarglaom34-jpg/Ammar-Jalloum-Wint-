@@ -1,0 +1,14 @@
+key: Container_container1_257
+type: Container
+props:
+  container:
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 16
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+name: Container

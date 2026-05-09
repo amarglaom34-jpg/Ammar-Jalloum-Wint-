@@ -1,0 +1,29 @@
+key: Container_container14_136
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 48
+      height:
+        pixelsValue:
+          inputValue: 48
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 9999
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          value: "452984831"
+          paletteColorName: on-primary_10
+          darkModeColor:
+            value: "436216649"
+    childAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+name: Container

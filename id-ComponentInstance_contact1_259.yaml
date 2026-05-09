@@ -1,0 +1,29 @@
+key: ComponentInstance_contact1_259
+type: Container
+props:
+  container: {}
+name: ContactItem
+parameterValues:
+  parameterPasses:
+    design_system_usr_contact_item_contact_itemparam_initials:
+      paramIdentifier:
+        name: initials
+        key: design_system_usr_contact_item_contact_itemparam_initials
+      inputValue:
+        serializedValue: AJ
+    design_system_usr_contact_item_contact_itemparam_name:
+      paramIdentifier:
+        name: name
+        key: design_system_usr_contact_item_contact_itemparam_name
+      inputValue:
+        serializedValue: Ammar Jalloum
+    design_system_usr_contact_item_contact_itemparam_phone:
+      paramIdentifier:
+        name: phone
+        key: design_system_usr_contact_item_contact_itemparam_phone
+      inputValue:
+        serializedValue: +963 931 222 333
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_246
+componentClassKeyRef:
+  key: ComponentRoot_node_246

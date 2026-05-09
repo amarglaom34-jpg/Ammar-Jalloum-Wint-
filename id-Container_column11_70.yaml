@@ -1,0 +1,9 @@
+key: Container_column11_70
+type: Container
+props:
+  container: {}
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 32
+name: Column Padding

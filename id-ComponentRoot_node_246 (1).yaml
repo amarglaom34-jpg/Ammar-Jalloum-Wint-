@@ -1,0 +1,6 @@
+key: ComponentRoot_node_246
+type: Container
+props:
+  container: {}
+name: ContactItem
+isDummyRoot: true

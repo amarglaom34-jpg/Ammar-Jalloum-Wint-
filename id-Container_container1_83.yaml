@@ -1,0 +1,296 @@
+key: Container_container1_83
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 64
+      height:
+        pixelsValue:
+          inputValue: 72
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 16
+      border:
+        top:
+          sizeValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          serializedValue: "2"
+                  elseValue:
+                    inputValue:
+                      serializedValue: "2"
+                  returnParameter:
+                    dataType:
+                      scalarType: Double
+            mostRecentInputValue: 2
+          colorValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          color:
+                            themeColor: TERTIARY
+                  elseValue:
+                    inputValue:
+                      color:
+                        themeColor: ALTERNATE
+                  returnParameter:
+                    dataType:
+                      scalarType: Color
+            mostRecentInputValue:
+              themeColor: ALTERNATE
+        right:
+          sizeValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          serializedValue: "2"
+                  elseValue:
+                    inputValue:
+                      serializedValue: "2"
+                  returnParameter:
+                    dataType:
+                      scalarType: Double
+            mostRecentInputValue: 2
+          colorValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          color:
+                            themeColor: TERTIARY
+                  elseValue:
+                    inputValue:
+                      color:
+                        themeColor: ALTERNATE
+                  returnParameter:
+                    dataType:
+                      scalarType: Color
+            mostRecentInputValue:
+              themeColor: ALTERNATE
+        bottom:
+          sizeValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          serializedValue: "2"
+                  elseValue:
+                    inputValue:
+                      serializedValue: "2"
+                  returnParameter:
+                    dataType:
+                      scalarType: Double
+            mostRecentInputValue: 2
+          colorValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          color:
+                            themeColor: TERTIARY
+                  elseValue:
+                    inputValue:
+                      color:
+                        themeColor: ALTERNATE
+                  returnParameter:
+                    dataType:
+                      scalarType: Color
+            mostRecentInputValue:
+              themeColor: ALTERNATE
+        left:
+          sizeValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          serializedValue: "2"
+                  elseValue:
+                    inputValue:
+                      serializedValue: "2"
+                  returnParameter:
+                    dataType:
+                      scalarType: Double
+            mostRecentInputValue: 2
+          colorValue:
+            variable:
+              source: FUNCTION_CALL
+              functionCall:
+                conditionalValue:
+                  ifConditionalValues:
+                    - condition:
+                        source: WIDGET_CLASS_PARAMETER
+                        baseVariable:
+                          widgetClass:
+                            paramIdentifier:
+                              name: active
+                              key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                        nodeKeyRef:
+                          key: ComponentRoot_node_81
+                      value:
+                        inputValue:
+                          color:
+                            themeColor: TERTIARY
+                  elseValue:
+                    inputValue:
+                      color:
+                        themeColor: ALTERNATE
+                  returnParameter:
+                    dataType:
+                      scalarType: Color
+            mostRecentInputValue:
+              themeColor: ALTERNATE
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderColorValue:
+        variable:
+          source: FUNCTION_CALL
+          functionCall:
+            conditionalValue:
+              ifConditionalValues:
+                - condition:
+                    source: WIDGET_CLASS_PARAMETER
+                    baseVariable:
+                      widgetClass:
+                        paramIdentifier:
+                          name: active
+                          key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                    nodeKeyRef:
+                      key: ComponentRoot_node_81
+                  value:
+                    inputValue:
+                      color:
+                        themeColor: TERTIARY
+              elseValue:
+                inputValue:
+                  color:
+                    themeColor: ALTERNATE
+              returnParameter:
+                dataType:
+                  scalarType: Color
+        mostRecentInputValue:
+          themeColor: ALTERNATE
+      borderWidthValue:
+        variable:
+          source: FUNCTION_CALL
+          functionCall:
+            conditionalValue:
+              ifConditionalValues:
+                - condition:
+                    source: WIDGET_CLASS_PARAMETER
+                    baseVariable:
+                      widgetClass:
+                        paramIdentifier:
+                          name: active
+                          key: design_system_usr_otp_digit_box_otp_digit_boxparam_active
+                    nodeKeyRef:
+                      key: ComponentRoot_node_81
+                  value:
+                    inputValue:
+                      serializedValue: "2"
+              elseValue:
+                inputValue:
+                  serializedValue: "2"
+              returnParameter:
+                dataType:
+                  scalarType: Double
+        mostRecentInputValue: 2
+    childAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+name: Container

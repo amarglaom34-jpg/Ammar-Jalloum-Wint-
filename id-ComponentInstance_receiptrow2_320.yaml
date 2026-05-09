@@ -1,0 +1,23 @@
+key: ComponentInstance_receiptrow2_320
+type: Container
+props:
+  container: {}
+name: ReceiptRow
+parameterValues:
+  parameterPasses:
+    design_system_usr_receipt_row_receipt_rowparam_label:
+      paramIdentifier:
+        name: label
+        key: design_system_usr_receipt_row_receipt_rowparam_label
+      inputValue:
+        serializedValue: Payment Method
+    design_system_usr_receipt_row_receipt_rowparam_value:
+      paramIdentifier:
+        name: value
+        key: design_system_usr_receipt_row_receipt_rowparam_value
+      inputValue:
+        serializedValue: Wallet Balance
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_314
+componentClassKeyRef:
+  key: ComponentRoot_node_314

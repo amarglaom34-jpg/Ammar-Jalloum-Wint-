@@ -1,0 +1,35 @@
+name: UserInfoTile
+description: ""
+params:
+  design_system_usr_user_info_tile_user_info_tileparam_initials:
+    identifier:
+      name: initials
+      key: design_system_usr_user_info_tile_user_info_tileparam_initials
+    defaultValue:
+      serializedValue: AJ
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_user_info_tile_user_info_tileparam_phone:
+    identifier:
+      name: phone
+      key: design_system_usr_user_info_tile_user_info_tileparam_phone
+    defaultValue:
+      serializedValue: +963 933 123 456
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_user_info_tile_user_info_tileparam_role:
+    identifier:
+      name: role
+      key: design_system_usr_user_info_tile_user_info_tileparam_role
+    defaultValue:
+      serializedValue: From (Sender)
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_297

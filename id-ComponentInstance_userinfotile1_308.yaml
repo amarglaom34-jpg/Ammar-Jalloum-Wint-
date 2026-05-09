@@ -1,0 +1,29 @@
+key: ComponentInstance_userinfotile1_308
+type: Container
+props:
+  container: {}
+name: UserInfoTile
+parameterValues:
+  parameterPasses:
+    design_system_usr_user_info_tile_user_info_tileparam_initials:
+      paramIdentifier:
+        name: initials
+        key: design_system_usr_user_info_tile_user_info_tileparam_initials
+      inputValue:
+        serializedValue: AJ
+    design_system_usr_user_info_tile_user_info_tileparam_phone:
+      paramIdentifier:
+        name: phone
+        key: design_system_usr_user_info_tile_user_info_tileparam_phone
+      inputValue:
+        serializedValue: +963 933 123 456
+    design_system_usr_user_info_tile_user_info_tileparam_role:
+      paramIdentifier:
+        name: role
+        key: design_system_usr_user_info_tile_user_info_tileparam_role
+      inputValue:
+        serializedValue: From (Sender)
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_297
+componentClassKeyRef:
+  key: ComponentRoot_node_297

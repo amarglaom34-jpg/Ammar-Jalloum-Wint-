@@ -1,0 +1,41 @@
+key: ComponentInstance_tx3_204
+type: Container
+props:
+  container: {}
+name: TransactionItem
+parameterValues:
+  parameterPasses:
+    design_system_usr_transaction_item_transaction_itemparam_amount:
+      paramIdentifier:
+        name: amount
+        key: design_system_usr_transaction_item_transaction_itemparam_amount
+      inputValue:
+        serializedValue: "12,500"
+    design_system_usr_transaction_item_transaction_itemparam_date:
+      paramIdentifier:
+        name: date
+        key: design_system_usr_transaction_item_transaction_itemparam_date
+      inputValue:
+        serializedValue: "24 Oct, 11:20 AM"
+    design_system_usr_transaction_item_transaction_itemparam_name:
+      paramIdentifier:
+        name: name
+        key: design_system_usr_transaction_item_transaction_itemparam_name
+      inputValue:
+        serializedValue: Syriatel Bill
+    design_system_usr_transaction_item_transaction_itemparam_status:
+      paramIdentifier:
+        name: status
+        key: design_system_usr_transaction_item_transaction_itemparam_status
+      inputValue:
+        serializedValue: Paid
+    design_system_usr_transaction_item_transaction_itemparam_is_income:
+      paramIdentifier:
+        name: isIncome
+        key: design_system_usr_transaction_item_transaction_itemparam_is_income
+      inputValue:
+        serializedValue: "false"
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_184
+componentClassKeyRef:
+  key: ComponentRoot_node_184

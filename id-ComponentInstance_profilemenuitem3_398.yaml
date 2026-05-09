@@ -1,0 +1,46 @@
+key: ComponentInstance_profilemenuitem3_398
+type: Container
+props:
+  container: {}
+name: ProfileMenuItem
+parameterValues:
+  parameterPasses:
+    design_system_usr_profile_menu_item_profile_menu_itemparam_icon:
+      paramIdentifier:
+        name: icon
+        key: design_system_usr_profile_menu_item_profile_menu_itemparam_icon
+      widgetProperty:
+        icon:
+          sizeValue:
+            inputValue: 22
+          colorValue:
+            inputValue:
+              themeColor: PRIMARY
+          iconDataValue:
+            inputValue:
+              codePoint: 62752
+              family: MaterialIcons
+              matchTextDirection: false
+              name: account_balance_wallet_rounded
+    design_system_usr_profile_menu_item_profile_menu_itemparam_subtitle:
+      paramIdentifier:
+        name: subtitle
+        key: design_system_usr_profile_menu_item_profile_menu_itemparam_subtitle
+      inputValue:
+        serializedValue: Linked accounts and cards
+    design_system_usr_profile_menu_item_profile_menu_itemparam_target:
+      paramIdentifier:
+        name: target
+        key: design_system_usr_profile_menu_item_profile_menu_itemparam_target
+      inputValue:
+        serializedValue: ""
+    design_system_usr_profile_menu_item_profile_menu_itemparam_title:
+      paramIdentifier:
+        name: title
+        key: design_system_usr_profile_menu_item_profile_menu_itemparam_title
+      inputValue:
+        serializedValue: Payment Methods
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_383
+componentClassKeyRef:
+  key: ComponentRoot_node_383

@@ -1,0 +1,40 @@
+key: Container_container13_153
+type: Container
+props:
+  container:
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ONLY
+        topLeftValue:
+          inputValue: 0
+        topRightValue:
+          inputValue: 0
+        bottomLeftValue:
+          inputValue: 32
+        bottomRightValue:
+          inputValue: 32
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      gradient:
+        colors:
+          - color:
+              inputValue:
+                color:
+                  value: "4279903102"
+            transitionPoint:
+              inputValue:
+                serializedValue: "0.0"
+          - color:
+              inputValue:
+                color:
+                  value: "4279060385"
+            transitionPoint:
+              inputValue:
+                serializedValue: "1.0"
+        angleValue:
+          inputValue: 0
+        gradientType: TYPE_LINEAR
+      boxShadow:
+        themeShadowToken:
+          name: lg
+          key: lg
+name: Container

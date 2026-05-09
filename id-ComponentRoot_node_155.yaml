@@ -1,0 +1,38 @@
+name: QuickAction
+description: ""
+params:
+  design_system_usr_quick_action_quick_actionparam_icon:
+    identifier:
+      name: icon
+      key: design_system_usr_quick_action_quick_actionparam_icon
+    defaultValue:
+      icon:
+        sizeValue:
+          inputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 983244
+            family: MaterialIcons
+            matchTextDirection: false
+            name: qr_code_scanner_rounded
+    dataType:
+      scalarType: WidgetProperty
+      subType:
+        widgetPropertyType: ICON
+    namedParameter:
+      isOptional: true
+  design_system_usr_quick_action_quick_actionparam_label:
+    identifier:
+      name: label
+      key: design_system_usr_quick_action_quick_actionparam_label
+    defaultValue:
+      serializedValue: Scan QR
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_155

@@ -1,0 +1,6 @@
+key: ComponentRoot_node_2
+type: Container
+props:
+  container: {}
+name: BrandLogo
+isDummyRoot: true

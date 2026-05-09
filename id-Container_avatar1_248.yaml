@@ -1,0 +1,25 @@
+key: Container_avatar1_248
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 44
+      height:
+        pixelsValue:
+          inputValue: 44
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      colorValue:
+        inputValue:
+          value: "436216649"
+          paletteColorName: primary_10
+          darkModeColor:
+            value: "449159257"
+    childAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+name: Avatar

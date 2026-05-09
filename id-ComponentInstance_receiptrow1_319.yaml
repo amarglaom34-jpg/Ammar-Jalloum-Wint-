@@ -1,0 +1,23 @@
+key: ComponentInstance_receiptrow1_319
+type: Container
+props:
+  container: {}
+name: ReceiptRow
+parameterValues:
+  parameterPasses:
+    design_system_usr_receipt_row_receipt_rowparam_label:
+      paramIdentifier:
+        name: label
+        key: design_system_usr_receipt_row_receipt_rowparam_label
+      inputValue:
+        serializedValue: Transaction ID
+    design_system_usr_receipt_row_receipt_rowparam_value:
+      paramIdentifier:
+        name: value
+        key: design_system_usr_receipt_row_receipt_rowparam_value
+      inputValue:
+        serializedValue: TRX-992847510
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_314
+componentClassKeyRef:
+  key: ComponentRoot_node_314

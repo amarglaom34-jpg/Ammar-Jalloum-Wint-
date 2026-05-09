@@ -1,0 +1,6 @@
+key: ComponentRoot_node_184
+type: Container
+props:
+  container: {}
+name: TransactionItem
+isDummyRoot: true

@@ -1,0 +1,7 @@
+key: ComponentInstance_brandlogo1_11
+type: Container
+props:
+  container: {}
+name: BrandLogo
+componentClassKeyRef:
+  key: ComponentRoot_node_2

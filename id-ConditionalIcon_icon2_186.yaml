@@ -1,0 +1,67 @@
+key: ConditionalIcon_icon2_186
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 20
+    colorValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          conditionalValue:
+            ifConditionalValues:
+              - condition:
+                  source: WIDGET_CLASS_PARAMETER
+                  baseVariable:
+                    widgetClass:
+                      paramIdentifier:
+                        name: isIncome
+                        key: design_system_usr_transaction_item_transaction_itemparam_is_income
+                  nodeKeyRef:
+                    key: ComponentRoot_node_184
+                value:
+                  inputValue:
+                    color:
+                      themeColor: SUCCESS
+            elseValue:
+              inputValue:
+                color:
+                  themeColor: ERROR
+            returnParameter:
+              dataType:
+                scalarType: Color
+      mostRecentInputValue:
+        themeColor: ERROR
+    iconDataValue:
+      inputValue:
+        codePoint: 62846
+        family: MaterialIcons
+        matchTextDirection: false
+        name: arrow_upward_rounded
+  visibility:
+    visibleValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          conditionalValue:
+            ifConditionalValues:
+              - condition:
+                  source: WIDGET_CLASS_PARAMETER
+                  baseVariable:
+                    widgetClass:
+                      paramIdentifier:
+                        name: isIncome
+                        key: design_system_usr_transaction_item_transaction_itemparam_is_income
+                  nodeKeyRef:
+                    key: ComponentRoot_node_184
+                value:
+                  inputValue:
+                    serializedValue: "false"
+            elseValue:
+              inputValue:
+                serializedValue: "true"
+            returnParameter:
+              dataType:
+                scalarType: Boolean
+      mostRecentInputValue: true
+name: Icon

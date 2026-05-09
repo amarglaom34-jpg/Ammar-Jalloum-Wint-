@@ -1,0 +1,58 @@
+name: ProfileMenuItem
+description: ""
+params:
+  design_system_usr_profile_menu_item_profile_menu_itemparam_icon:
+    identifier:
+      name: icon
+      key: design_system_usr_profile_menu_item_profile_menu_itemparam_icon
+    defaultValue:
+      icon:
+        sizeValue:
+          inputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 983148
+            family: MaterialIcons
+            matchTextDirection: false
+            name: person_outline_rounded
+    dataType:
+      scalarType: WidgetProperty
+      subType:
+        widgetPropertyType: ICON
+    namedParameter:
+      isOptional: true
+  design_system_usr_profile_menu_item_profile_menu_itemparam_subtitle:
+    identifier:
+      name: subtitle
+      key: design_system_usr_profile_menu_item_profile_menu_itemparam_subtitle
+    defaultValue:
+      serializedValue: "Name, Phone, and Identity"
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_profile_menu_item_profile_menu_itemparam_target:
+    identifier:
+      name: target
+      key: design_system_usr_profile_menu_item_profile_menu_itemparam_target
+    defaultValue:
+      serializedValue: ""
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+  design_system_usr_profile_menu_item_profile_menu_itemparam_title:
+    identifier:
+      name: title
+      key: design_system_usr_profile_menu_item_profile_menu_itemparam_title
+    defaultValue:
+      serializedValue: Personal Information
+    dataType:
+      scalarType: String
+    namedParameter:
+      isOptional: true
+node:
+  key: ComponentRoot_node_383

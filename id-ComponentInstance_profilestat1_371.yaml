@@ -1,0 +1,23 @@
+key: ComponentInstance_profilestat1_371
+type: Container
+props:
+  container: {}
+name: ProfileStat
+parameterValues:
+  parameterPasses:
+    design_system_usr_profile_stat_profile_statparam_label:
+      paramIdentifier:
+        name: label
+        key: design_system_usr_profile_stat_profile_statparam_label
+      inputValue:
+        serializedValue: Transactions
+    design_system_usr_profile_stat_profile_statparam_value:
+      paramIdentifier:
+        name: value
+        key: design_system_usr_profile_stat_profile_statparam_value
+      inputValue:
+        serializedValue: "1,284"
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_366
+componentClassKeyRef:
+  key: ComponentRoot_node_366
