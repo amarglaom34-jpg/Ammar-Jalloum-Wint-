@@ -1,0 +1,104 @@
+key: LineChart_linechart1_173
+type: Chart
+props:
+  chart:
+    chartType: LINE
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 120
+    lineChart:
+      lines:
+        - curvedValue:
+            inputValue: true
+          showDotsValue:
+            inputValue: false
+          lineWidthValue:
+            inputValue: 2
+          fillBelowLineValue:
+            inputValue: true
+          fillColorValue:
+            inputValue:
+              value: "436216649"
+              paletteColorName: primary_10
+              darkModeColor:
+                value: "449159257"
+          dashedValue:
+            inputValue: false
+      axisInfo:
+        axisLabels:
+          bottom:
+            showLabels: true
+            labelStyle:
+              themeStyle: BODY_SMALL
+              selectable: false
+              fontSizeValue:
+                inputValue: 10
+              colorValue:
+                inputValue:
+                  themeColor: SECONDARY_TEXT
+              heightValue:
+                inputValue: 1
+            reservedSize: 28
+          left:
+            showLabels: false
+            labelStyle:
+              themeStyle: BODY_SMALL
+              selectable: false
+              fontSizeValue:
+                inputValue: 10
+              colorValue:
+                inputValue:
+                  themeColor: SECONDARY_TEXT
+              heightValue:
+                inputValue: 1
+            reservedSize: 0
+        axisBounds:
+          minX: 0
+          minY: 0
+          maxX: 6
+          maxY: 108
+      xLabelsValue:
+        source: FUNCTION_CALL
+        functionCall:
+          codeExpression:
+            returnParameter:
+              dataType:
+                listType:
+                  scalarType: String
+            expression: "['M','T','W','T','F','S','S']"
+            valid: true
+    data:
+      - numbersList:
+          xData:
+            source: FUNCTION_CALL
+            functionCall:
+              codeExpression:
+                returnParameter:
+                  dataType:
+                    listType:
+                      scalarType: Double
+                expression: "[0.0,1.0,2.0,3.0,4.0,5.0,6.0]"
+                valid: true
+          yData:
+            source: FUNCTION_CALL
+            functionCall:
+              codeExpression:
+                returnParameter:
+                  dataType:
+                    listType:
+                      scalarType: Double
+                expression: "[40.0,65.0,45.0,80.0,55.0,90.0,70.0]"
+                valid: true
+        sourceType: NUMBERS_LIST
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+    backgroundColorValue:
+      inputValue:
+        value: "0"
+    showBorderValue:
+      inputValue: false
+    showGridValue:
+      inputValue: false
+name: LineChart

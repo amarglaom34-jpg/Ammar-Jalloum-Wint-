@@ -1,0 +1,23 @@
+key: Row_row13_100
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    crossAxisAlignment: cross_axis_center
+    scrollable: false
+    listSpacing:
+      spacingValue:
+        inputValue: 8
+    minSizeValue:
+      inputValue: false
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 0
+    topValue:
+      inputValue: 16
+    rightValue:
+      inputValue: 0
+    bottomValue:
+      inputValue: 16
+name: Row

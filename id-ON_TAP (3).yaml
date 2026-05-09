@@ -1,0 +1,6 @@
+rootAction:
+  key: nav_WalletDashboard_iconbutton5
+  action:
+    key: ssv8px3u
+trigger:
+  triggerType: ON_TAP

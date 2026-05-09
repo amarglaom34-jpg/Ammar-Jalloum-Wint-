@@ -1,0 +1,6 @@
+rootAction:
+  key: nav_WalletDashboard_iconbutton2
+  action:
+    key: xswh96sh
+trigger:
+  triggerType: ON_TAP

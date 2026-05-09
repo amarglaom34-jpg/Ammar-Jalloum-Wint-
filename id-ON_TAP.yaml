@@ -1,0 +1,6 @@
+rootAction:
+  key: nav_PhoneEntry_iconbutton1
+  action:
+    key: t8q227x2
+trigger:
+  triggerType: ON_TAP

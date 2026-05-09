@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: sb7o38lh
+translations:
+  - language:
+      language: am
+    text: "Hello, User!"
+  - language:
+      language: ar
+    text: ""
+isFixed: false

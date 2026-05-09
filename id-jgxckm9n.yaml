@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: jgxckm9n
+translations:
+  - language:
+      language: am
+    text: "{false ? + : -} 45,000"
+  - language:
+      language: ar
+    text: ""
+isFixed: false

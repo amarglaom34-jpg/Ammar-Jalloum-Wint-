@@ -1,0 +1,6 @@
+rootAction:
+  key: nav_PhoneEntry_container28
+  action:
+    key: pq90esxq
+trigger:
+  triggerType: ON_TAP

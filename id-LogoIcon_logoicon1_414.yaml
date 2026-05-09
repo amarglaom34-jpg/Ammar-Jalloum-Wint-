@@ -1,0 +1,18 @@
+key: LogoIcon_logoicon1_414
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 24
+    cached: true
+    pathValue:
+      inputValue: https://cdn.simpleicons.org/googlepay/94a3b8.svg
+    format: FF_IMAGE_FORMAT_SVG
+name: LogoIcon

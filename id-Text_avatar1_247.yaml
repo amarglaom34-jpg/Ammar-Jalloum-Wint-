@@ -1,0 +1,38 @@
+key: Text_avatar1_247
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 9ht7uhv8
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: AJ
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: initials
+              key: design_system_usr_contact_item_contact_itemparam_initials
+        nodeKeyRef:
+          key: ComponentRoot_node_246
+        uiBuilderValue:
+          serializedValue: AJ
+      mostRecentInputValue: AJ
+    fontSizeValue:
+      inputValue: 16.72
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    heightValue:
+      inputValue: 1.3
+    maxLinesValue:
+      inputValue: 1
+    fontWeightValue:
+      inputValue: w600
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+    overflowReplacement: CLIP
+name: Avatar Label

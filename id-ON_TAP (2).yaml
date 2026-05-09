@@ -1,0 +1,6 @@
+rootAction:
+  key: nav_WalletDashboard_iconbutton3
+  action:
+    key: kg71rpho
+trigger:
+  triggerType: ON_TAP

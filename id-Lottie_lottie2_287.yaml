@@ -1,0 +1,20 @@
+key: Lottie_lottie2_287
+type: LottieAnimation
+props:
+  lottieAnimation:
+    source: FF_SOURCE_TYPE_NETWORK
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 120
+      height:
+        pixelsValue:
+          inputValue: 120
+    animationType: FF_LOTTIE_ANIMATION_TYPE_ONCE
+    usingUpdatedDimensions: true
+    pathValue:
+      inputValue: https://dimg.dreamflow.cloud/v1/lottie/success+checkmark+animation
+    initialAnimationStatusValue:
+      inputValue: true
+name: Lottie
