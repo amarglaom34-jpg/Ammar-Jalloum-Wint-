@@ -1,0 +1,15 @@
+key: Text_text50_279
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 14kbori0
+    selectable: false
+    textValue:
+      inputValue: Transaction Receipt
+    heightValue:
+      inputValue: 1.4
+    fontWeightValue:
+      inputValue: w700
+name: Text

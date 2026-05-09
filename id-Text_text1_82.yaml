@@ -1,0 +1,31 @@
+key: Text_text1_82
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    translationIdentifier:
+      key: vqbcnlez
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: "4"
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: value
+              key: design_system_usr_otp_digit_box_otp_digit_boxparam_value
+        nodeKeyRef:
+          key: ComponentRoot_node_81
+        uiBuilderValue:
+          serializedValue: "4"
+      mostRecentInputValue: "4"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.25
+    fontWeightValue:
+      inputValue: w700
+name: Text

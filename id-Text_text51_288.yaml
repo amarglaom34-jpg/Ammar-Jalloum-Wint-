@@ -1,0 +1,16 @@
+key: Text_text51_288
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_SMALL
+    translationIdentifier:
+      key: 2kh0653d
+    selectable: false
+    textValue:
+      inputValue: Transfer Successful
+    colorValue:
+      inputValue:
+        themeColor: SUCCESS
+    fontWeightValue:
+      inputValue: w700
+name: Text

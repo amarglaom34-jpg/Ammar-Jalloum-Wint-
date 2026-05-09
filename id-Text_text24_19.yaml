@@ -1,0 +1,18 @@
+key: Text_text24_19
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: j4ewpvqo
+    selectable: false
+    textValue:
+      inputValue: "+963"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.5
+    fontWeightValue:
+      inputValue: w600
+name: Text

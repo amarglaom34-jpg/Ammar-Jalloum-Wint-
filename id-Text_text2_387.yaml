@@ -1,0 +1,32 @@
+key: Text_text2_387
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: rapu9srz
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: "Name, Phone, and Identity"
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: subtitle
+              key: design_system_usr_profile_menu_item_profile_menu_itemparam_subtitle
+        nodeKeyRef:
+          key: ComponentRoot_node_383
+        uiBuilderValue:
+          serializedValue: "Name, Phone, and Identity"
+      mostRecentInputValue: "Name, Phone, and Identity"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    maxLinesValue:
+      inputValue: 1
+    overflowReplacement: ELLIPSIS
+name: Text

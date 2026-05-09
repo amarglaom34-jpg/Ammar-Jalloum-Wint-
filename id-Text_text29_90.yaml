@@ -1,0 +1,16 @@
+key: Text_text29_90
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 3v4uyejz
+    selectable: false
+    textValue:
+      inputValue: Didn't receive the code?
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.45
+name: Text

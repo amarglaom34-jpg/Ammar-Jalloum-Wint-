@@ -1,0 +1,32 @@
+key: Text_text1_249
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: v5peda32
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: Ammar Jalloum
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: name
+              key: design_system_usr_contact_item_contact_itemparam_name
+        nodeKeyRef:
+          key: ComponentRoot_node_246
+        uiBuilderValue:
+          serializedValue: Ammar Jalloum
+      mostRecentInputValue: Ammar Jalloum
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    maxLinesValue:
+      inputValue: 1
+    overflowReplacement: ELLIPSIS
+name: Text

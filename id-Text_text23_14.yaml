@@ -1,0 +1,16 @@
+key: Text_text23_14
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: x5c3fl41
+    selectable: false
+    textValue:
+      inputValue: Enter your phone number to access your secure wallet account.
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.45
+name: Text

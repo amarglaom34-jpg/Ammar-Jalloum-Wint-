@@ -1,0 +1,29 @@
+key: Text_text5_194
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 5mxou716
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: Sent
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: status
+              key: design_system_usr_transaction_item_transaction_itemparam_status
+        nodeKeyRef:
+          key: ComponentRoot_node_184
+        uiBuilderValue:
+          serializedValue: Sent
+      mostRecentInputValue: Sent
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.2
+name: Text

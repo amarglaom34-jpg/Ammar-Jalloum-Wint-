@@ -1,0 +1,16 @@
+key: Text_text43_218
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: xjbexdhy
+    selectable: false
+    textValue:
+      inputValue: Recipient Phone Number
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.3
+name: Text

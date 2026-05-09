@@ -1,0 +1,16 @@
+key: Text_text58_361
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: gdeveed4
+    selectable: false
+    textValue:
+      inputValue: +963 930 123 456
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.45
+name: Text

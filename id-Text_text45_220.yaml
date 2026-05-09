@@ -1,0 +1,15 @@
+key: Text_text45_220
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: wndeuzqo
+    selectable: false
+    textValue:
+      inputValue: "+963"
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w700
+name: Text

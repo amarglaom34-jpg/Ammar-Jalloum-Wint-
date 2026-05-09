@@ -1,0 +1,16 @@
+key: Text_text26_57
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: i7j4x634
+    selectable: false
+    textValue:
+      inputValue: "By continuing, you agree to our"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.2
+name: Text

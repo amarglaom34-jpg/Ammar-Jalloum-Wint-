@@ -1,0 +1,18 @@
+key: Text_text40_180
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ivfchf4f
+    selectable: false
+    textValue:
+      inputValue: Recent Transactions
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    fontWeightValue:
+      inputValue: w700
+name: Text

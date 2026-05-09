@@ -1,0 +1,21 @@
+key: Text_text35_140
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: wc6m0j8e
+    selectable: false
+    textValue:
+      inputValue: SYP
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w600
+name: Text

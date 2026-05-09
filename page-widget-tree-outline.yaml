@@ -1,0 +1,49 @@
+node:
+  key: Scaffold_scaffold1_0
+  body:
+    key: ScrollColumn_column11_71
+    children:
+      - key: Container_column11_70
+        children:
+          - key: Column_column11_69
+            children:
+              - key: Container_sizedbox1_1
+              - key: ComponentInstance_brandlogo1_11
+              - key: Container_sizedbox2_12
+              - key: Column_column12_16
+                children:
+                  - key: Text_text22_13
+                  - key: Text_text23_14
+              - key: Container_sizedbox3_17
+              - key: Column_column13_44
+                children:
+                  - key: Row_row8_38
+                    children:
+                      - key: Container_container13_23
+                        children:
+                          - key: Container_container13_22
+                            children:
+                              - key: Row_row9_21
+                                children:
+                                  - key: Image_image1_18
+                                  - key: Text_text24_19
+                      - key: ComponentInstance_textfield1_36
+                  - key: Row_row10_42
+                    children:
+                      - key: Icon_icon11_39
+                      - key: Text_text25_40
+              - key: Container_sizedbox4_45
+              - key: ComponentInstance_button1_55
+              - key: Container_sizedbox5_56
+              - key: Column_column14_67
+                children:
+                  - key: Row_row11_60
+                    children:
+                      - key: Text_text26_57
+                      - key: Text_text27_58
+                  - key: Divider_divider1_61
+                  - key: Row_row12_65
+                    children:
+                      - key: Text_text28_62
+                      - key: Text_text29_63
+              - key: Container_sizedbox6_68

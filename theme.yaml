@@ -1,0 +1,270 @@
+loadingIndicatorStyle:
+  type: CIRCULAR
+  color:
+    themeColor: PRIMARY
+  diameter: 50
+defaultTypography:
+  primaryFontFamily: Plus Jakarta Sans
+  secondaryFontFamily: Inter
+  displaySmall:
+    fontFamily: Inter Tight
+    fontSizeValue:
+      inputValue: 36
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineMedium:
+    fontFamily: Plus Jakarta Sans
+    fontSizeValue:
+      inputValue: 26
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.25
+    fontWeightValue:
+      inputValue: w600
+  headlineSmall:
+    fontFamily: Inter Tight
+    fontSizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleMedium:
+    fontFamily: Plus Jakarta Sans
+    fontSizeValue:
+      inputValue: 17
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    fontWeightValue:
+      inputValue: w600
+  titleSmall:
+    fontFamily: Inter Tight
+    fontSizeValue:
+      inputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  bodyMedium:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w400
+  bodySmall:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    fontWeightValue:
+      inputValue: w400
+  displayLarge:
+    fontFamily: Inter Tight
+    fontSizeValue:
+      inputValue: 64
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  displayMedium:
+    fontFamily: Inter Tight
+    fontSizeValue:
+      inputValue: 44
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineLarge:
+    fontFamily: Plus Jakarta Sans
+    fontSizeValue:
+      inputValue: 32
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.2
+    fontWeightValue:
+      inputValue: w700
+  titleLarge:
+    fontFamily: Plus Jakarta Sans
+    fontSizeValue:
+      inputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w600
+  labelLarge:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w600
+  labelMedium:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w600
+  labelSmall:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 10
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.2
+    fontWeightValue:
+      inputValue: w600
+  bodyLarge:
+    fontFamily: Inter
+    fontSizeValue:
+      inputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.5
+    fontWeightValue:
+      inputValue: w400
+breakPoints:
+  small: 479
+  medium: 767
+  large: 991
+spacingTokens:
+  - identifier:
+      name: none
+      key: none
+    value: 0
+  - identifier:
+      name: xs
+      key: xs
+    value: 4
+  - identifier:
+      name: sm
+      key: sm
+    value: 8
+  - identifier:
+      name: md
+      key: md
+    value: 16
+  - identifier:
+      name: lg
+      key: lg
+    value: 24
+  - identifier:
+      name: xl
+      key: xl
+    value: 32
+  - identifier:
+      name: xxl
+      key: xxl
+    value: 48
+  - identifier:
+      name: xxxl
+      key: xxxl
+    value: 64
+radiusTokens:
+  - identifier:
+      name: none
+      key: none
+    value: 0
+  - identifier:
+      name: xs
+      key: xs
+    value: 2
+  - identifier:
+      name: sm
+      key: sm
+    value: 8
+  - identifier:
+      name: md
+      key: md
+    value: 12
+  - identifier:
+      name: lg
+      key: lg
+    value: 16
+  - identifier:
+      name: xl
+      key: xl
+    value: 24
+  - identifier:
+      name: xxl
+      key: xxl
+    value: 32
+  - identifier:
+      name: full
+      key: full
+    value: 9999
+shadowTokens:
+  - identifier:
+      name: sm
+      key: sm
+    blurRadius: 2
+    color:
+      value: "218112841"
+    dx: 0
+    dy: 1
+    spreadRadius: 0
+  - identifier:
+      name: md
+      key: md
+    blurRadius: 6
+    color:
+      value: "335553353"
+    dx: 0
+    dy: 4
+    spreadRadius: -1
+  - identifier:
+      name: lg
+      key: lg
+    blurRadius: 15
+    color:
+      value: "436216649"
+    dx: 0
+    dy: 10
+    spreadRadius: -3
+  - identifier:
+      name: xl
+      key: xl
+    blurRadius: 25
+    color:
+      value: "637543241"
+    dx: 0
+    dy: 20
+    spreadRadius: -5

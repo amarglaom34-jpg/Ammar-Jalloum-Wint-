@@ -1,0 +1,64 @@
+node:
+  key: Scaffold_scaffold5_277
+  body:
+    key: Column_column33_344
+    children:
+      - key: Container_container21_286
+        children:
+          - key: Column_container21_285
+            children:
+              - key: Container_container21_283
+                children:
+                  - key: Row_row29_282
+                    children:
+                      - key: IconButton_iconbutton3_278
+                      - key: Text_text50_279
+                      - key: IconButton_iconbutton4_280
+              - key: Container_container21_284
+      - key: ScrollColumn_column34_342
+        children:
+          - key: Container_column34_341
+            children:
+              - key: Column_column34_340
+                children:
+                  - key: Column_column35_291
+                    children:
+                      - key: Lottie_lottie2_287
+                      - key: Text_text51_288
+                      - key: Text_text52_289
+                  - key: Container_container22_328
+                    children:
+                      - key: Container_container22_327
+                        children:
+                          - key: Column_column36_326
+                            children:
+                              - key: Column_column37_295
+                                children:
+                                  - key: Text_text53_292
+                                  - key: Text_text54_293
+                              - key: Divider_divider2_296
+                              - key: Column_column38_312
+                                children:
+                                  - key: ComponentInstance_userinfotile1_308
+                                  - key: Icon_icon12_309
+                                  - key: ComponentInstance_userinfotile2_310
+                              - key: Divider_divider3_313
+                              - key: Column_column39_324
+                                children:
+                                  - key: ComponentInstance_receiptrow1_319
+                                  - key: ComponentInstance_receiptrow2_320
+                                  - key: ComponentInstance_receiptrow3_321
+                                  - key: ComponentInstance_receiptrow4_322
+                  - key: Container_container23_334
+                    children:
+                      - key: Container_container23_333
+                        children:
+                          - key: Row_row30_332
+                            children:
+                              - key: Icon_icon13_329
+                              - key: Text_text55_330
+                  - key: Column_column40_338
+                    children:
+                      - key: ComponentInstance_stdbutton6_335
+                      - key: ComponentInstance_stdbutton7_336
+                  - key: Container_sizedbox11_339

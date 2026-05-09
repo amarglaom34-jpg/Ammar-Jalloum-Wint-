@@ -1,0 +1,20 @@
+key: Text_text55_330
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: i86ztlx8
+    selectable: false
+    textValue:
+      inputValue: This transaction is secure and verified by Ammar Jalloum Wallet encryption.
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.4
+  expanded:
+    expandedType: EXPANDED
+    flexValue:
+      inputValue: 1
+name: Text

@@ -1,0 +1,68 @@
+node:
+  key: Scaffold_scaffold3_130
+  body:
+    key: Column_column19_212
+    children:
+      - key: Container_container13_153
+        children:
+          - key: Container_container13_152
+            children:
+              - key: Column_column20_151
+                children:
+                  - key: Row_row18_138
+                    children:
+                      - key: Column_column21_134
+                        children:
+                          - key: Text_text32_131
+                          - key: Text_text33_132
+                      - key: Container_container14_136
+                        children:
+                          - key: Icon_icon11_135
+                  - key: Column_column22_145
+                    children:
+                      - key: Text_text34_139
+                      - key: Row_row19_143
+                        children:
+                          - key: Text_text35_140
+                          - key: Text_text36_141
+                  - key: Row_row20_149
+                    children:
+                      - key: ComponentInstance_stdbutton2_146
+                      - key: ComponentInstance_stdbutton3_147
+      - key: Column_column23_168
+        children:
+          - key: Text_text37_154
+          - key: Row_row21_166
+            children:
+              - key: ComponentInstance_act1_161
+              - key: ComponentInstance_act2_162
+              - key: ComponentInstance_act3_163
+              - key: ComponentInstance_act4_164
+      - key: Container_container15_179
+        children:
+          - key: Container_container15_178
+            children:
+              - key: Container_container15_177
+                children:
+                  - key: Column_column24_176
+                    children:
+                      - key: Row_row22_172
+                        children:
+                          - key: Text_text38_169
+                          - key: Text_text39_170
+                      - key: Container_container16_174
+                        children:
+                          - key: LineChart_linechart1_173
+      - key: Column_column25_209
+        children:
+          - key: Row_row23_183
+            children:
+              - key: Text_text40_180
+              - key: Text_text41_181
+          - key: Column_column26_207
+            children:
+              - key: ComponentInstance_tx1_202
+              - key: ComponentInstance_tx2_203
+              - key: ComponentInstance_tx3_204
+              - key: ComponentInstance_tx4_205
+      - key: Container_sizedbox9_210

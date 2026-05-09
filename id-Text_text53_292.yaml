@@ -1,0 +1,16 @@
+key: Text_text53_292
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: sx5dkh6i
+    selectable: false
+    textValue:
+      inputValue: Amount Sent
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.3
+name: Text

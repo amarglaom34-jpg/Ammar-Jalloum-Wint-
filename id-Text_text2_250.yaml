@@ -1,0 +1,29 @@
+key: Text_text2_250
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: ur34lm40
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: +963 931 222 333
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: phone
+              key: design_system_usr_contact_item_contact_itemparam_phone
+        nodeKeyRef:
+          key: ComponentRoot_node_246
+        uiBuilderValue:
+          serializedValue: +963 931 222 333
+      mostRecentInputValue: +963 931 222 333
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.4
+name: Text

@@ -1,0 +1,70 @@
+key: Text_text4_193
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: jgxckm9n
+    selectable: false
+    textValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          stringInterpolation: {}
+          values:
+            - inputValue:
+                serializedValue: "{"
+            - variable:
+                source: WIDGET_CLASS_PARAMETER
+                baseVariable:
+                  widgetClass:
+                    paramIdentifier:
+                      name: isIncome
+                      key: design_system_usr_transaction_item_transaction_itemparam_is_income
+                nodeKeyRef:
+                  key: ComponentRoot_node_184
+            - inputValue:
+                serializedValue: " ? + : -} "
+            - variable:
+                source: WIDGET_CLASS_PARAMETER
+                baseVariable:
+                  widgetClass:
+                    paramIdentifier:
+                      name: amount
+                      key: design_system_usr_transaction_item_transaction_itemparam_amount
+                nodeKeyRef:
+                  key: ComponentRoot_node_184
+      mostRecentInputValue: "{false ? + : -} 45,000"
+    colorValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          conditionalValue:
+            ifConditionalValues:
+              - condition:
+                  source: WIDGET_CLASS_PARAMETER
+                  baseVariable:
+                    widgetClass:
+                      paramIdentifier:
+                        name: isIncome
+                        key: design_system_usr_transaction_item_transaction_itemparam_is_income
+                  nodeKeyRef:
+                    key: ComponentRoot_node_184
+                value:
+                  inputValue:
+                    color:
+                      themeColor: SUCCESS
+            elseValue:
+              inputValue:
+                color:
+                  themeColor: ERROR
+            returnParameter:
+              dataType:
+                scalarType: Color
+      mostRecentInputValue:
+        themeColor: ERROR
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w700
+name: Text

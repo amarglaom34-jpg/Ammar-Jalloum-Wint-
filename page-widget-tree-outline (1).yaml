@@ -1,0 +1,60 @@
+node:
+  key: Scaffold_scaffold2_72
+  body:
+    key: Column_column14_129
+    children:
+      - key: Column_column15_78
+        children:
+          - key: IconButton_iconbutton1_73
+          - key: Container_sizedbox7_74
+          - key: Text_text27_75
+          - key: Text_text28_76
+      - key: Container_container13_80
+        children:
+          - key: Lottie_lottie1_79
+      - key: Column_column16_95
+        children:
+          - key: Row_row11_89
+            children:
+              - key: ComponentInstance_digit1_84
+              - key: ComponentInstance_digit2_85
+              - key: ComponentInstance_digit3_86
+              - key: ComponentInstance_digit4_87
+          - key: Row_row12_93
+            children:
+              - key: Text_text29_90
+              - key: ComponentInstance_stdbutton1_91
+      - key: Column_column17_102
+        children:
+          - key: ComponentInstance_button2_96
+          - key: Row_row13_100
+            children:
+              - key: Icon_icon11_97
+              - key: Text_text30_98
+      - key: Spacer_spacer1_103
+      - key: Container_container14_127
+        children:
+          - key: Container_container14_126
+            children:
+              - key: Column_column18_125
+                children:
+                  - key: Row_row14_108
+                    children:
+                      - key: Text_key1_104
+                      - key: Text_key2_105
+                      - key: Text_key3_106
+                  - key: Row_row15_113
+                    children:
+                      - key: Text_key4_109
+                      - key: Text_key5_110
+                      - key: Text_key6_111
+                  - key: Row_row16_118
+                    children:
+                      - key: Text_key7_114
+                      - key: Text_key8_115
+                      - key: Text_key9_116
+                  - key: Row_row17_123
+                    children:
+                      - key: Container_sizedbox8_119
+                      - key: Text_text31_120
+                      - key: Icon_icon12_121

@@ -1,0 +1,31 @@
+key: Text_text4_301
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: iqvcq33w
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: +963 933 123 456
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: phone
+              key: design_system_usr_user_info_tile_user_info_tileparam_phone
+        nodeKeyRef:
+          key: ComponentRoot_node_297
+        uiBuilderValue:
+          serializedValue: +963 933 123 456
+      mostRecentInputValue: +963 933 123 456
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w600
+name: Text

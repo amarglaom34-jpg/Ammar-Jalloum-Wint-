@@ -1,0 +1,18 @@
+key: Text_text38_169
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: yjfte72h
+    selectable: false
+    textValue:
+      inputValue: Spending Activity
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w600
+name: Text

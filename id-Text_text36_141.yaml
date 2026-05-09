@@ -1,0 +1,21 @@
+key: Text_text36_141
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_LARGE
+    translationIdentifier:
+      key: a22qojdh
+    selectable: false
+    textValue:
+      inputValue: "1,250,000"
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.2
+    fontWeightValue:
+      inputValue: w800
+name: Text

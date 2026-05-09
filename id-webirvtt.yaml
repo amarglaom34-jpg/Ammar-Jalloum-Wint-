@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: webirvtt
+translations:
+  - language:
+      language: am
+    text: Profile Settings
+  - language:
+      language: ar
+    text: ""
+isFixed: false

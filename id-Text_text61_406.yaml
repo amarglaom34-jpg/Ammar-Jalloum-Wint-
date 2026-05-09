@@ -1,0 +1,21 @@
+key: Text_text61_406
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: v8ypbulv
+    selectable: false
+    textValue:
+      inputValue: Sign Out
+    colorValue:
+      inputValue:
+        value: "4294967295"
+        paletteColorName: on_error
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w600
+name: Text

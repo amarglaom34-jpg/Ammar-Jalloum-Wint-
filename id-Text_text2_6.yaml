@@ -1,0 +1,18 @@
+key: Text_text2_6
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: 0sg58q18
+    selectable: false
+    textValue:
+      inputValue: Wallet
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    heightValue:
+      inputValue: 1.3
+    fontWeightValue:
+      inputValue: w400
+name: Text

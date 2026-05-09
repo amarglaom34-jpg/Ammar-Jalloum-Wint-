@@ -1,0 +1,16 @@
+key: Text_text28_76
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: vc9r6w69
+    selectable: false
+    textValue:
+      inputValue: We sent a 4-digit code to your phone number for secure access.
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.5
+name: Text

@@ -1,0 +1,16 @@
+key: Text_text39_170
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: fnoppwv0
+    selectable: false
+    textValue:
+      inputValue: This Week
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    heightValue:
+      inputValue: 1.2
+name: Text

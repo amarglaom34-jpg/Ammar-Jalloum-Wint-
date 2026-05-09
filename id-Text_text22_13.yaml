@@ -1,0 +1,16 @@
+key: Text_text22_13
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_SMALL
+    translationIdentifier:
+      key: 82nxr9d2
+    selectable: false
+    textValue:
+      inputValue: Welcome Back
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w700
+name: Text

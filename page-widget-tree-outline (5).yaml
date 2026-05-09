@@ -1,0 +1,73 @@
+node:
+  key: Scaffold_scaffold6_345
+  body:
+    key: Column_column41_419
+    children:
+      - key: Container_container24_354
+        children:
+          - key: Column_container24_353
+            children:
+              - key: Container_container24_351
+                children:
+                  - key: Row_row31_350
+                    children:
+                      - key: IconButton_iconbutton5_346
+                      - key: Text_text56_347
+                      - key: IconButton_iconbutton6_348
+              - key: Container_container24_352
+      - key: Column_column42_365
+        children:
+          - key: Stack_stack2_359
+            children:
+              - key: Container_container25_357
+                children:
+                  - key: Container_avatar3_356
+                    children:
+                      - key: Text_avatar3_355
+              - key: Container_container26_358
+          - key: Column_column43_363
+            children:
+              - key: Text_text57_360
+              - key: Text_text58_361
+      - key: Container_container27_380
+        children:
+          - key: Container_container27_379
+            children:
+              - key: Container_container27_378
+                children:
+                  - key: Row_row32_377
+                    children:
+                      - key: ComponentInstance_profilestat1_371
+                      - key: Container_divider4_372
+                      - key: ComponentInstance_profilestat2_373
+                      - key: Container_divider5_374
+                      - key: ComponentInstance_profilestat3_375
+      - key: Column_column44_413
+        children:
+          - key: Container_text59_382
+            children:
+              - key: Text_text59_381
+          - key: ComponentInstance_profilemenuitem1_396
+          - key: ComponentInstance_profilemenuitem2_397
+          - key: ComponentInstance_profilemenuitem3_398
+          - key: Container_sizedbox12_399
+          - key: Container_text60_401
+            children:
+              - key: Text_text60_400
+          - key: ComponentInstance_profilemenuitem4_402
+          - key: ComponentInstance_profilemenuitem5_403
+          - key: Container_sizedbox13_404
+          - key: Container_container28_411
+            children:
+              - key: Container_container28_410
+                children:
+                  - key: Container_container28_409
+                    children:
+                      - key: Row_row33_408
+                        children:
+                          - key: Icon_icon14_405
+                          - key: Text_text61_406
+      - key: Column_column45_417
+        children:
+          - key: LogoIcon_logoicon1_414
+          - key: Text_text62_415

@@ -1,0 +1,19 @@
+key: Text_text34_139
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: ben3xmkz
+    selectable: false
+    textValue:
+      inputValue: Current Balance
+    colorValue:
+      inputValue:
+        value: "3003121664"
+        paletteColorName: on-secondary_70
+        darkModeColor:
+          value: "3019898879"
+    heightValue:
+      inputValue: 1.3
+name: Text

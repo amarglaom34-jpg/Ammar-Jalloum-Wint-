@@ -1,0 +1,16 @@
+key: Text_text46_230
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 81vyjbrz
+    selectable: false
+    textValue:
+      inputValue: Amount to Transfer
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.3
+name: Text

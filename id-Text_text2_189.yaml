@@ -1,0 +1,34 @@
+key: Text_text2_189
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 8csf50ws
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: Ahmad Al-Khatib
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: name
+              key: design_system_usr_transaction_item_transaction_itemparam_name
+        nodeKeyRef:
+          key: ComponentRoot_node_184
+        uiBuilderValue:
+          serializedValue: Ahmad Al-Khatib
+      mostRecentInputValue: Ahmad Al-Khatib
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.45
+    maxLinesValue:
+      inputValue: 1
+    fontWeightValue:
+      inputValue: w600
+    overflowReplacement: ELLIPSIS
+name: Text

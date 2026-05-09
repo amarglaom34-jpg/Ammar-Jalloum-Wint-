@@ -1,0 +1,16 @@
+key: Text_text30_98
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: dxjsmti2
+    selectable: false
+    textValue:
+      inputValue: Secure end-to-end encrypted verification
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.2
+name: Text

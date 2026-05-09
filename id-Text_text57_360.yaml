@@ -1,0 +1,18 @@
+key: Text_text57_360
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    translationIdentifier:
+      key: q57cjees
+    selectable: false
+    textValue:
+      inputValue: Ammar Jalloum
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.25
+    fontWeightValue:
+      inputValue: w700
+name: Text

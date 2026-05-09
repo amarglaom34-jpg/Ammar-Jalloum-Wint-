@@ -1,0 +1,29 @@
+key: Text_text3_190
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 2wq17c7d
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: "Today, 02:45 PM"
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: date
+              key: design_system_usr_transaction_item_transaction_itemparam_date
+        nodeKeyRef:
+          key: ComponentRoot_node_184
+        uiBuilderValue:
+          serializedValue: "Today, 02:45 PM"
+      mostRecentInputValue: "Today, 02:45 PM"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.2
+name: Text

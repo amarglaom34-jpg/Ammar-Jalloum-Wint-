@@ -1,0 +1,29 @@
+key: Text_text1_315
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 6vveuy8y
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: Transaction ID
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: label
+              key: design_system_usr_receipt_row_receipt_rowparam_label
+        nodeKeyRef:
+          key: ComponentRoot_node_314
+        uiBuilderValue:
+          serializedValue: Transaction ID
+      mostRecentInputValue: Transaction ID
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    heightValue:
+      inputValue: 1.45
+name: Text

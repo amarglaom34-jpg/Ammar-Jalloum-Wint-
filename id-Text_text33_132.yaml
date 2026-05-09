@@ -1,0 +1,21 @@
+key: Text_text33_132
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    translationIdentifier:
+      key: sb7o38lh
+    selectable: false
+    textValue:
+      inputValue: "Hello, User!"
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.25
+    fontWeightValue:
+      inputValue: w700
+name: Text

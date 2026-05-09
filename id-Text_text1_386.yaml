@@ -1,0 +1,31 @@
+key: Text_text1_386
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 71d7fw72
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: Personal Information
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: title
+              key: design_system_usr_profile_menu_item_profile_menu_itemparam_title
+        nodeKeyRef:
+          key: ComponentRoot_node_383
+        uiBuilderValue:
+          serializedValue: Personal Information
+      mostRecentInputValue: Personal Information
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.45
+    fontWeightValue:
+      inputValue: w600
+name: Text

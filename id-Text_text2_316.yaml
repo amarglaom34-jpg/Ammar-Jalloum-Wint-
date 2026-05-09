@@ -1,0 +1,40 @@
+key: Text_text2_316
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: k4t9udy5
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: TRX-992847510
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: value
+              key: design_system_usr_receipt_row_receipt_rowparam_value
+        nodeKeyRef:
+          key: ComponentRoot_node_314
+        uiBuilderValue:
+          serializedValue: TRX-992847510
+      mostRecentInputValue: TRX-992847510
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.45
+    maxLinesValue:
+      inputValue: 1
+    fontWeightValue:
+      inputValue: w600
+    textAlignValue:
+      inputValue: ALIGN_END
+    overflowReplacement: ELLIPSIS
+  expanded:
+    expandedType: EXPANDED
+    flexValue:
+      inputValue: 1
+name: Text

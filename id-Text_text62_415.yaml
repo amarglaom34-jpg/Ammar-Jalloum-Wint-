@@ -1,0 +1,19 @@
+key: Text_text62_415
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 9mo4wd0r
+    selectable: false
+    textValue:
+      inputValue: Ammar Jalloum Wallet v1.0.4
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.2
+name: Text

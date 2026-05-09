@@ -1,0 +1,31 @@
+key: Text_text3_367
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 1etuboxc
+    selectable: false
+    textValue:
+      variable:
+        source: WIDGET_CLASS_PARAMETER
+        defaultValue:
+          serializedValue: "1,284"
+        baseVariable:
+          widgetClass:
+            paramIdentifier:
+              name: value
+              key: design_system_usr_profile_stat_profile_statparam_value
+        nodeKeyRef:
+          key: ComponentRoot_node_366
+        uiBuilderValue:
+          serializedValue: "1,284"
+      mostRecentInputValue: "1,284"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.4
+    fontWeightValue:
+      inputValue: w700
+name: Text

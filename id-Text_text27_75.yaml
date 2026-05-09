@@ -1,0 +1,18 @@
+key: Text_text27_75
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_LARGE
+    translationIdentifier:
+      key: ezuicz3k
+    selectable: false
+    textValue:
+      inputValue: Verify Account
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    heightValue:
+      inputValue: 1.2
+    fontWeightValue:
+      inputValue: w700
+name: Text

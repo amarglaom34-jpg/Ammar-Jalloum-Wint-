@@ -1,0 +1,23 @@
+key: Text_text49_267
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: imanx4le
+    selectable: false
+    textValue:
+      inputValue: Your transaction is encrypted and secure.
+    colorValue:
+      inputValue:
+        value: "4294967295"
+        paletteColorName: on_primary
+        darkModeColor:
+          value: "4278199113"
+    heightValue:
+      inputValue: 1.4
+  expanded:
+    expandedType: EXPANDED
+    flexValue:
+      inputValue: 1
+name: Text

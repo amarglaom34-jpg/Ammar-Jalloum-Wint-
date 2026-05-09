@@ -1,0 +1,19 @@
+key: Text_text25_40
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 2kvtwu9s
+    selectable: false
+    textValue:
+      inputValue: We'll send a 6-digit code via SMS.
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    heightValue:
+      inputValue: 1.3
+name: Text
