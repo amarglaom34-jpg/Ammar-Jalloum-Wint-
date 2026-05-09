@@ -1,0 +1,19 @@
+node:
+  key: ComponentRoot_node_246
+  children:
+    - key: Container_container1_258
+      children:
+        - key: Container_container1_257
+          children:
+            - key: Container_container1_256
+              children:
+                - key: Row_row1_255
+                  children:
+                    - key: Container_avatar1_248
+                      children:
+                        - key: Text_avatar1_247
+                    - key: Column_column1_252
+                      children:
+                        - key: Text_text1_249
+                        - key: Text_text2_250
+                    - key: Icon_icon1_253

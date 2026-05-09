@@ -1,0 +1,123 @@
+primary:
+  value: "4278199113"
+  darkModeColor:
+    value: "4291141721"
+secondary:
+  value: "4291141721"
+  darkModeColor:
+    value: "4278199113"
+tertiary:
+  value: "4292128567"
+  darkModeColor:
+    value: "4292128567"
+customPaletteColors:
+  - value: "4294967295"
+    paletteColorName: on_primary
+    darkModeColor:
+      value: "4278199113"
+  - value: "4278190080"
+    paletteColorName: on_secondary
+    darkModeColor:
+      value: "4294967295"
+  - value: "4278199113"
+    paletteColorName: on_surface
+    darkModeColor:
+      value: "4294507002"
+  - value: "4294967295"
+    paletteColorName: on_error
+    darkModeColor:
+      value: "4294967295"
+  - value: "0"
+    paletteColorName: transparent
+    darkModeColor:
+      value: "0"
+  - value: "2164260863"
+    paletteColorName: surface_50
+    darkModeColor:
+      value: "2149460283"
+  - value: "3422552064"
+    paletteColorName: on-secondary_80
+    darkModeColor:
+      value: "3439329279"
+  - value: "452984831"
+    paletteColorName: on-primary_10
+    darkModeColor:
+      value: "436216649"
+  - value: "3003121664"
+    paletteColorName: on-secondary_70
+    darkModeColor:
+      value: "3019898879"
+  - value: "436216649"
+    paletteColorName: primary_10
+    darkModeColor:
+      value: "449159257"
+  - value: "436573801"
+    paletteColorName: success_10
+    darkModeColor:
+      value: "437303681"
+  - value: "856004201"
+    paletteColorName: success_20
+    darkModeColor:
+      value: "856734081"
+  - value: "1291854665"
+    paletteColorName: primary_30
+    darkModeColor:
+      value: "1304797273"
+  - value: "450635302"
+    paletteColorName: error_10
+    darkModeColor:
+      value: "451888196"
+darkModeEnabled: true
+alternate:
+  value: "4293060848"
+  darkModeColor:
+    value: "4281549141"
+primaryBackground:
+  value: "4294507002"
+  darkModeColor:
+    value: "4279179050"
+secondaryBackground:
+  value: "4294967295"
+  darkModeColor:
+    value: "4280166715"
+primaryText:
+  value: "4278199113"
+  darkModeColor:
+    value: "4294507002"
+secondaryText:
+  value: "4284773515"
+  darkModeColor:
+    value: "4287931320"
+displayDarkMode: false
+accent1:
+  value: "1279998447"
+  darkModeColor:
+    value: "1279998447"
+accent2:
+  value: "1295635136"
+  darkModeColor:
+    value: "1295635136"
+accent3:
+  value: "4287931320"
+  darkModeColor:
+    value: "4282865001"
+accent4:
+  value: "3439329279"
+  darkModeColor:
+    value: "2988846388"
+success:
+  value: "4278556265"
+  darkModeColor:
+    value: "4279286145"
+warning:
+  value: "4294561624"
+  darkModeColor:
+    value: "4294561624"
+error:
+  value: "4292617766"
+  darkModeColor:
+    value: "4293870660"
+info:
+  value: "4294967295"
+  darkModeColor:
+    value: "4294967295"

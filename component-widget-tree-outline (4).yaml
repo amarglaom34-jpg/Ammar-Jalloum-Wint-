@@ -1,0 +1,9 @@
+node:
+  key: ComponentRoot_node_155
+  children:
+    - key: Column_column1_160
+      children:
+        - key: Container_container1_157
+          children:
+            - key: Icon_icon1_156
+        - key: Text_text1_158

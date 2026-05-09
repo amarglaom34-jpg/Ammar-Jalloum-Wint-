@@ -1,0 +1,16 @@
+node:
+  key: ComponentRoot_node_24
+  children:
+    - key: Container_root_35
+      children:
+        - key: Column_layout_34
+          children:
+            - key: Text_label_text_25
+            - key: Container_field_31
+              children:
+                - key: Row_input_row_30
+                  children:
+                    - key: Icon_leading_icon_26
+                    - key: Input_input_27
+                    - key: Icon_trailing_icon_28
+            - key: Text_helper_text_32

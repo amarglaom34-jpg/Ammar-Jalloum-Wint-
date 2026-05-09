@@ -1,0 +1,25 @@
+node:
+  key: ComponentRoot_node_184
+  children:
+    - key: Container_container2_201
+      children:
+        - key: Container_container2_200
+          children:
+            - key: Container_container2_199
+              children:
+                - key: Row_row1_198
+                  children:
+                    - key: Container_container3_188
+                      children:
+                        - key: ConditionalIconStack_icon2_187
+                          children:
+                            - key: ConditionalIcon_icon2_185
+                            - key: ConditionalIcon_icon2_186
+                    - key: Column_column2_192
+                      children:
+                        - key: Text_text2_189
+                        - key: Text_text3_190
+                    - key: Column_column3_196
+                      children:
+                        - key: Text_text4_193
+                        - key: Text_text5_194

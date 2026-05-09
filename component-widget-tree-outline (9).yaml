@@ -1,0 +1,7 @@
+node:
+  key: ComponentRoot_node_366
+  children:
+    - key: Column_column2_370
+      children:
+        - key: Text_text3_367
+        - key: Text_text4_368

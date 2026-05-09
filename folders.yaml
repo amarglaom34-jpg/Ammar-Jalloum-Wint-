@@ -1,0 +1,23 @@
+rootFolders:
+  - key: folder_pages
+    name: pages
+  - key: folder_components
+    name: components
+widgetClassKeyToFolderKey:
+  Scaffold_scaffold1_0: folder_pages
+  Scaffold_scaffold2_72: folder_pages
+  Scaffold_scaffold3_130: folder_pages
+  Scaffold_scaffold4_213: folder_pages
+  Scaffold_scaffold5_277: folder_pages
+  Scaffold_scaffold6_345: folder_pages
+  ComponentRoot_node_2: folder_components
+  ComponentRoot_node_24: folder_components
+  ComponentRoot_node_46: folder_components
+  ComponentRoot_node_81: folder_components
+  ComponentRoot_node_155: folder_components
+  ComponentRoot_node_184: folder_components
+  ComponentRoot_node_246: folder_components
+  ComponentRoot_node_297: folder_components
+  ComponentRoot_node_314: folder_components
+  ComponentRoot_node_366: folder_components
+  ComponentRoot_node_383: folder_components
