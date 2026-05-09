@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: 2kvtwu9s
+translations:
+  - language:
+      language: am
+    text: We'll send a 6-digit code via SMS.
+  - language:
+      language: ar
+    text: ""
+isFixed: false

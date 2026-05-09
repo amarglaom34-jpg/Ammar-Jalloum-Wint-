@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: ben3xmkz
+translations:
+  - language:
+      language: am
+    text: Current Balance
+  - language:
+      language: ar
+    text: ""
+isFixed: false

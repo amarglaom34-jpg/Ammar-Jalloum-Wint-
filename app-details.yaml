@@ -1,0 +1,13 @@
+name: Ammar Jalloum Wallet
+appSettings:
+  advancedSettings:
+    webBuildSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_scaffold1_0
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.ammarjalloumwallet

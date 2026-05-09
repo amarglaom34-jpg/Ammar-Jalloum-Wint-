@@ -1,0 +1,34 @@
+key: ComponentInstance_act4_164
+type: Container
+props:
+  container: {}
+name: QuickAction
+parameterValues:
+  parameterPasses:
+    design_system_usr_quick_action_quick_actionparam_icon:
+      paramIdentifier:
+        name: icon
+        key: design_system_usr_quick_action_quick_actionparam_icon
+      widgetProperty:
+        icon:
+          sizeValue:
+            inputValue: 24
+          colorValue:
+            inputValue:
+              themeColor: PRIMARY
+          iconDataValue:
+            inputValue:
+              codePoint: 63471
+              family: MaterialIcons
+              matchTextDirection: false
+              name: history_rounded
+    design_system_usr_quick_action_quick_actionparam_label:
+      paramIdentifier:
+        name: label
+        key: design_system_usr_quick_action_quick_actionparam_label
+      inputValue:
+        serializedValue: History
+  widgetClassNodeKeyRef:
+    key: ComponentRoot_node_155
+componentClassKeyRef:
+  key: ComponentRoot_node_155

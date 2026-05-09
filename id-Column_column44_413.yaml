@@ -1,0 +1,20 @@
+key: Column_column44_413
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_start
+    crossAxisAlignment: cross_axis_stretch
+    scrollable: false
+    minSizeValue:
+      inputValue: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+    topValue:
+      inputValue: 0
+    rightValue:
+      inputValue: 24
+    bottomValue:
+      inputValue: 0
+name: Column

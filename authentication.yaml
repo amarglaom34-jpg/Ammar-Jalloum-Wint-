@@ -1,0 +1,10 @@
+firebaseConfigFileInfos:
+  - androidPath: users/VoO0FWmijNTczFu6mYuF0ssM4o83/projects/ammar-jalloum-wallet-j6skxu/configs/nrilj2hr0a7z/google-services.json
+    iosPath: users/VoO0FWmijNTczFu6mYuF0ssM4o83/projects/ammar-jalloum-wallet-j6skxu/configs/sdnwd5zky0rv/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"amarglaom-479e1\",\n  \"appId\": \"1:230656935686:web:2ec974d5c804e405f18087\",\n  \"databaseURL\": \"https:\/\/amarglaom-479e1-default-rtdb.firebaseio.com\",\n  \"storageBucket\": \"amarglaom-479e1.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyDpgt8y6X23SSOUPnQG7XK0Yx9jibBXdPw\",\n  \"authDomain\": \"amarglaom-479e1.firebaseapp.com\",\n  \"messagingSenderId\": \"230656935686\",\n  \"measurementId\": \"G-205ETRP1QT\",\n  \"projectNumber\": \"230656935686\",\n  \"version\": \"2\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.ammarjalloumwallet
+    iosBundleId: com.mycompany.ammarjalloumwallet
+    environment:
+      name: Production
+      key: PROD
