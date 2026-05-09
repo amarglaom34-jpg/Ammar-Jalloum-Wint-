@@ -1,0 +1,16 @@
+key: Container_divider5_374
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 1
+      height:
+        pixelsValue:
+          inputValue: 30
+    boxDecoration:
+      colorValue:
+        inputValue:
+          themeColor: ALTERNATE
+name: Divider

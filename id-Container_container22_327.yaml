@@ -1,0 +1,9 @@
+key: Container_container22_327
+type: Container
+props:
+  container: {}
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 32
+name: Container Padding

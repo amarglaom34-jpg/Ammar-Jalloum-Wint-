@@ -1,0 +1,19 @@
+key: Icon_icon14_405
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 20
+    colorValue:
+      inputValue:
+        value: "4294967295"
+        paletteColorName: on_error
+        darkModeColor:
+          value: "4294967295"
+    iconDataValue:
+      inputValue:
+        codePoint: 63627
+        family: MaterialIcons
+        matchTextDirection: false
+        name: logout_rounded
+name: Icon

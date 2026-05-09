@@ -1,0 +1,19 @@
+key: Icon_icon11_266
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 20
+    colorValue:
+      inputValue:
+        value: "4294967295"
+        paletteColorName: on_primary
+        darkModeColor:
+          value: "4278199113"
+    iconDataValue:
+      inputValue:
+        codePoint: 983358
+        family: MaterialIcons
+        matchTextDirection: false
+        name: security_rounded
+name: Icon

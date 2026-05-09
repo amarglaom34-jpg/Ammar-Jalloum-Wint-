@@ -1,0 +1,41 @@
+key: Icon_icon1_384
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 983148
+        family: MaterialIcons
+        matchTextDirection: false
+        name: person_outline_rounded
+    variable:
+      source: WIDGET_CLASS_PARAMETER
+      defaultValue:
+        icon:
+          iconDataValue:
+            inputValue:
+              codePoint: 983148
+              family: MaterialIcons
+              matchTextDirection: false
+              name: person_outline_rounded
+      baseVariable:
+        widgetClass:
+          paramIdentifier:
+            name: icon
+            key: design_system_usr_profile_menu_item_profile_menu_itemparam_icon
+      nodeKeyRef:
+        key: ComponentRoot_node_383
+      uiBuilderValue:
+        icon:
+          iconDataValue:
+            inputValue:
+              codePoint: 983148
+              family: MaterialIcons
+              matchTextDirection: false
+              name: person_outline_rounded
+name: Icon

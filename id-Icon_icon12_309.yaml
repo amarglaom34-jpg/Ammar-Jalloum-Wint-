@@ -1,0 +1,21 @@
+key: Icon_icon12_309
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 983467
+        family: MaterialIcons
+        matchTextDirection: false
+        name: south_rounded
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0
+name: Icon

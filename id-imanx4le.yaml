@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: imanx4le
+translations:
+  - language:
+      language: am
+    text: Your transaction is encrypted and secure.
+  - language:
+      language: ar
+    text: ""
+isFixed: false

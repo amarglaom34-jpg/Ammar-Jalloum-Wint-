@@ -1,0 +1,10 @@
+translationIdentifier:
+  key: i86ztlx8
+translations:
+  - language:
+      language: am
+    text: This transaction is secure and verified by Ammar Jalloum Wallet encryption.
+  - language:
+      language: ar
+    text: ""
+isFixed: false

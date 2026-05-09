@@ -1,0 +1,22 @@
+key: Image_image1_18
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 18
+    cached: true
+    imageAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+    pathValue:
+      inputValue: https://dimg.dreamflow.cloud/v1/image/Syria%20flag%20icon
+name: Image

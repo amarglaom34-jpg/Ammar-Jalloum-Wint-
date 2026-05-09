@@ -1,0 +1,16 @@
+key: Icon_icon1_3
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 40
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 62752
+        family: MaterialIcons
+        matchTextDirection: false
+        name: account_balance_wallet_rounded
+name: Icon

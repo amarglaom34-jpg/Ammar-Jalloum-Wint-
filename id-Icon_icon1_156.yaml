@@ -1,0 +1,41 @@
+key: Icon_icon1_156
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 983244
+        family: MaterialIcons
+        matchTextDirection: false
+        name: qr_code_scanner_rounded
+    variable:
+      source: WIDGET_CLASS_PARAMETER
+      defaultValue:
+        icon:
+          iconDataValue:
+            inputValue:
+              codePoint: 983244
+              family: MaterialIcons
+              matchTextDirection: false
+              name: qr_code_scanner_rounded
+      baseVariable:
+        widgetClass:
+          paramIdentifier:
+            name: icon
+            key: design_system_usr_quick_action_quick_actionparam_icon
+      nodeKeyRef:
+        key: ComponentRoot_node_155
+      uiBuilderValue:
+        icon:
+          iconDataValue:
+            inputValue:
+              codePoint: 983244
+              family: MaterialIcons
+              matchTextDirection: false
+              name: qr_code_scanner_rounded
+name: Icon

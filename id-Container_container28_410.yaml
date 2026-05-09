@@ -1,0 +1,17 @@
+key: Container_container28_410
+type: Container
+props:
+  container:
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 16
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          value: "450635302"
+          paletteColorName: error_10
+          darkModeColor:
+            value: "451888196"
+name: Container

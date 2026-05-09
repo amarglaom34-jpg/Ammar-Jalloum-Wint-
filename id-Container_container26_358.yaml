@@ -1,0 +1,56 @@
+key: Container_container26_358
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 24
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 9999
+      border:
+        top:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              themeColor: SECONDARY_BACKGROUND
+        right:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              themeColor: SECONDARY_BACKGROUND
+        bottom:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              themeColor: SECONDARY_BACKGROUND
+        left:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              themeColor: SECONDARY_BACKGROUND
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          themeColor: SUCCESS
+      borderColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 3
+  alignment:
+    xValue:
+      inputValue: 0.8
+    yValue:
+      inputValue: 0.8
+name: Container

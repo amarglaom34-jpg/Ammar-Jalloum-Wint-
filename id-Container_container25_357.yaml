@@ -1,0 +1,68 @@
+key: Container_container25_357
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 108
+      height:
+        pixelsValue:
+          inputValue: 108
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 9999
+      border:
+        top:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              value: "1291854665"
+              paletteColorName: primary_30
+              darkModeColor:
+                value: "1304797273"
+        right:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              value: "1291854665"
+              paletteColorName: primary_30
+              darkModeColor:
+                value: "1304797273"
+        bottom:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              value: "1291854665"
+              paletteColorName: primary_30
+              darkModeColor:
+                value: "1304797273"
+        left:
+          sizeValue:
+            inputValue: 3
+          colorValue:
+            inputValue:
+              value: "1291854665"
+              paletteColorName: primary_30
+              darkModeColor:
+                value: "1304797273"
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      borderColorValue:
+        inputValue:
+          value: "1291854665"
+          paletteColorName: primary_30
+          darkModeColor:
+            value: "1304797273"
+      borderWidthValue:
+        inputValue: 3
+    childAlignment:
+      xValue:
+        inputValue: 0
+      yValue:
+        inputValue: 0
+name: Container

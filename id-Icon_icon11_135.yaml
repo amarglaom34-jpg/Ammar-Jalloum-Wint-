@@ -1,0 +1,19 @@
+key: Icon_icon11_135
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        value: "4278190080"
+        paletteColorName: on_secondary
+        darkModeColor:
+          value: "4294967295"
+    iconDataValue:
+      inputValue:
+        codePoint: 983153
+        family: MaterialIcons
+        matchTextDirection: false
+        name: person_rounded
+name: Icon
